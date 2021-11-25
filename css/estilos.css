@@ -3,6 +3,9 @@
     margin: 0%;
     font-family: 'Quicksand'; 
 }
+.carousel-inner{
+    max-height: 25rem;
+}
 #titulo h1 {
     cursor: pointer;
     font-size: 100px;
